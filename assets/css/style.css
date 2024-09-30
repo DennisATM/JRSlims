@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main-container{
+    width: 100vw;
+    height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('../img/bg-restaurante.jpg');
+    background-color: #343a40;
+
+}
+
+nav{
+    background-color: #2D2E32;
+}
+
+table{
+    font-size: 0.8rem;
+}
